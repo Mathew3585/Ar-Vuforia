@@ -1,6 +1,5 @@
 
 ![Logo](![image]([ReadmeContent/mars_4_astronaut.jpg)
-)
 
 
 ## Mini Golf Vr

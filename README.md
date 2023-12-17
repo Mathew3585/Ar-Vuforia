@@ -1,6 +1,5 @@
 
-![Logo](![image]([ReadmeContent/mars_4_astronaut.jpg)
-
+![Logo](ReadmeContent/mars_4_astronaut.jpg)
 
 ## Mini Golf Vr
 
@@ -20,8 +19,6 @@ Explore my augmented reality project using Vuforia—an experience where virtual
 ![Idle Screen](ReadmeContent/vlcsnap-2023-12-17-15h41m09s435.png)
 
 ![Menu](ReadmeContent/vlcsnap-2023-12-17-15h41m28s517.png)
-
-![g1](https://github.com/Mathew3585/Mini-golf-Vr/blob/main/ScreenShoot/2023-05-19%2017-11-10.00_00_16_57.Still001.png?raw=true)
 
 ![g2](ReadmeContent/vlcsnap-2023-12-17-15h41m56s891.png)
 

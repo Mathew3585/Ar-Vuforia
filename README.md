@@ -9,7 +9,7 @@
 
 ## 📜Description
 
-Discover an immersive and captivating mini-golf experience through my solo virtual reality project, created in just one day using Unity's XR technology. Immerse yourself in a virtual world where you can explore various mini-golf courses. Each course presents unique obstacles, such as tunnels and ramps, adding a touch of complexity and enjoyment to every shot. Enhance your precision and skill to achieve the highest possible score. Plunge into the virtual realm, improve your golfing abilities, and enjoy the excitement of this virtual mini-golf experience.
+Explore my augmented reality project using Vuforia—an experience where virtual objects come to life in your surroundings. In just one day, I integrated AR technology and implemented this system for all smartphone types, showcasing my mastery of augmented reality's potential.
 ## 📹Demo
 
 [GoflMiniGame.webm](https://github.com/Mathew3585/Mini-golf-Vr/assets/68810417/23ff820d-1bfd-4f04-a7c7-087a389d75b2)

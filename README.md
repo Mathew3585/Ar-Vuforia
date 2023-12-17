@@ -10,7 +10,8 @@
 Explore my augmented reality project using Vuforia—an experience where virtual objects come to life in your surroundings. In just one day, I integrated AR technology and implemented this system for all smartphone types, showcasing my mastery of augmented reality's potential.
 ## 📹Demo
 
-[GoflMiniGame.webm](ReadmeContent/Screenrecorder-2023-12-17-15-21-33-254.mp4)
+
+[Demo.webm](https://github.com/Mathew3585/Ar-Vuforia/assets/68810417/331f5247-d0f5-4a95-8f3f-5d9f33162ce7)
 
 
 
@@ -26,7 +27,7 @@ Explore my augmented reality project using Vuforia—an experience where virtual
 
 ## 💻Tech Stack
 
-C#, Xr unity, Rig.
+C#, Vuforia.
 
 ## Authors
 

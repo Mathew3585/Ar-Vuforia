@@ -1,5 +1,5 @@
 
-![Logo](![image]([ReadmeContent/mars_4_astronaut.jpg))
+![Logo](![image]([ReadmeContent/mars_4_astronaut.jpg)
 )
 
 

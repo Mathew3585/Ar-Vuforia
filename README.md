@@ -1,5 +1,5 @@
 
-![Logo](![image]([https://github.com/Mathew3585/Ar-Vuforia/assets/68810417/e9eed062-597c-4e47-a594-58b7364f9079](https://media.githubusercontent.com/media/Mathew3585/Ar-Vuforia/main/ReadmeContent/mars_4_astronaut.jpg))
+![Logo](![image]([ReadmeContent/mars_4_astronaut.jpg))
 )
 
 
